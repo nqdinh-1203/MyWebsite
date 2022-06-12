@@ -131,6 +131,11 @@ header {
   font-size: 2.8rem;
   font-weight: bold;
 }
+
+#ctfs h2 {
+  margin-bottom: 3%;
+}
+
 #skills h3,
 #touch h3,
 #ctfs h3 {
@@ -169,7 +174,7 @@ header {
 
 #post a{
   color: whitesmoke;
-  font-size: 150%;
+  font-size: 180%;
 }
 
 #post a:hover{
@@ -183,10 +188,10 @@ header {
 }
 
 #cbjs-post{
-  width: 5%;
+  width: 6%;
 }
 #hcmus-ctf-22-post{
-  width: 4.7%;
+  width: 5%;
   border-radius: 70%;
 }
 
