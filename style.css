@@ -195,6 +195,12 @@ header {
   border-radius: 70%;
 }
 
+#category {
+  margin-left: 0.7%;
+  font-size: 120%;
+  color:  #c8a38e;
+}
+
 #contact-me {
   background: none;
   color: #6143a1;
