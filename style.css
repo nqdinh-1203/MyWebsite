@@ -188,11 +188,14 @@ header {
 }
 
 #cbjs-post{
-  width: 6%;
+  width: 5%;
 }
 #hcmus-ctf-22-post{
-  width: 5%;
+  width: 4.5%;
   border-radius: 70%;
+}
+#rootme-post {
+  width: 5%;
 }
 
 #category {
