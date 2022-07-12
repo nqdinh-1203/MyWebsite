@@ -200,6 +200,7 @@ header {
 
 #portswigger-post{
   width: 3.5%;
+  border-radius: 25%;
 }
 
 #category {
