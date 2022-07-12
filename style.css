@@ -198,6 +198,10 @@ header {
   width: 5%;
 }
 
+#portswigger-post{
+  width: 3.5%;
+}
+
 #category {
   margin-left: 0.7%;
   font-size: 120%;
